@@ -16,7 +16,7 @@
 ## 🧠 Sobre mí
 
 ```python
-deyvi = {
+Deyvi = {
     "ubicacion":     "Bogotá, Colombia 🇨🇴",
     "educacion":     "Computer Science — Universidad Nacional de Colombia (2027)",
     "experiencia":   "4+ años como QA Analyst en Teleperformance",
