@@ -16,7 +16,7 @@
 ## 🧠 Sobre mí
 
 ```python
-Deyvi = {
+deyvi = {
     "ubicacion":     "Bogotá, Colombia 🇨🇴",
     "educacion":     "Computer Science — Universidad Nacional de Colombia (2027)",
     "experiencia":   "4+ años como QA Analyst en Teleperformance",
@@ -43,11 +43,12 @@ Deyvi = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🌐 Fullstack
+### 🌐 Fullstack — MERN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,15 +67,11 @@ Deyvi = {
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 Certificaciones
 
-<div align="center">
-
-![Deyvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsDeyvixd&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsDeyvixd&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
+| Certificado | Institución | Año | Horas | Verificar |
+|---|---|---|---|---|
+| **Desarrollo Web Full Stack** — Nivel Intermedio | MinTIC · Talento Tech Bogotá | Dic 2024 | 159 hrs | [🔗 Ver certificado](https://certificados.talentotech.co/?cert=2584665803&fingerprint=y#pdf) |
 
 ---
 
