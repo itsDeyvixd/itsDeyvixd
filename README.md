@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, soy Deyvi Ardila 👋
-### Computer Science @ UNAL · QA Analyst → QA Automation · Fullstack Dev · Data Science
+### Computer Science @ UNAL · QA · Fullstack Dev · Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvi-ardila-forero-792154253/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deyviardilaforero@gmail.com)
@@ -31,9 +31,8 @@ Deyvi = {
 
 ## 🚀 Stack & Herramientas
 
-### 🧪 QA & Testing
+### 🧪 QA
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
