@@ -89,9 +89,3 @@ Estoy en búsqueda activa de mi primer rol junior en **QA Automation**, **Fullst
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvi-ardila-forero-792154253/)
 
----
-
-<div align="center">
-  <i>"El código que no se prueba, es código que no funciona."</i><br/>
-  <sub>— Todo QA Engineer que ha visto producción caerse un viernes</sub>
-</div>
